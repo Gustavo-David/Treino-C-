@@ -1,3 +1,7 @@
 {
-    "C_Cpp.vcFormat.indent.withinParentheses": "indent"
+    "C_Cpp.vcFormat.indent.withinParentheses": "indent",
+    "files.associations": {
+        "iostream": "cpp",
+        "cstdlib": "cpp"
+    }
 }
